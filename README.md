@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, this is Hitesh Kandala</h1>
-<h3 align="center">Ur regular WFH undergrad obsessed with ML :headphones:</h3>
+<h3 align="center">I'm a ML enthusiast, looking to solve research problems :headphones:</h3>
 
 ![](https://komarev.com/ghpvc/?username=hiteshK03&color=0d98ba)
 
